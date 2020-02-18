@@ -3,7 +3,7 @@ clc
 clear all
 
 vid_secs = ; % approximate duration of the video
-vid_dir = ''; % directory of your video
+vid_dir = 'TestVids'; % directory of your video
 
 blk_size = 16;
 half_blk_size = blk_size / 2;
